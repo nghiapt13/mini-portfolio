@@ -14,9 +14,9 @@
       159° , 52% , 33%
   */
 
-  --hue: 159;
-  --sat: 52%;
-  --lig: 33%;
+  --hue: 265;
+  --sat: 100%;
+  --lig: 86%;
   --first-color: hsl(var(--hue), var(--sat), var(--lig));
   --first-color-alt: hsl(var(--hue), var(--sat), 53%);
   /* -4% */
